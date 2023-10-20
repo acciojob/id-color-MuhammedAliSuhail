@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#p1{
+ 
+	background-color:yellow;
+	border : solid green 1px
+}
+#p2{
+ 
+	background-color:red;
+	border : solid black 1px
+}
+#p3{
+ 
+	background-color:green;
+	border : solid yellow 1px
+}
